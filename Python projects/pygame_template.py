@@ -4,7 +4,8 @@ import random
 
 WIDTH = 360
 HEIGHT = 480
-FPS = 30
+FPS = 60
+
 
 # Задаем цвета
 WHITE = (255, 255, 255)
